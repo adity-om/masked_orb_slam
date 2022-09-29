@@ -133,7 +133,11 @@ Frame::Frame(const cv::Mat &imLeft, const cv::Mat &imRight, const double &timeSt
         return;
 
     UndistortKeyPoints();
-
+/*
+#ifdef REGISTER_TIMES
+    std::chrono::steady_clock::time_point time_StartStereoMatches = std::chrono::steady_clock::now();
+#endif
+*/
 #ifdef REGISTER_TIMES
     std::chrono::steady_clock::time_point time_StartStereoMatches = std::chrono::steady_clock::now();
 #endif
