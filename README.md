@@ -25,7 +25,7 @@ Thus, based off the obvious inaccuracy in semantic masks for the ORB-SLAM, we pr
 
 <br>
 
-The visualization of masks used for our framework can be seen below: 
+The visualization of the masks we used for our framework can be seen below: 
 <p align="center">
 <img src="https://gitlab.eecs.umich.edu/v_slam/orb-slam_dynamic/-/raw/main/media/mask_KITTI.gif" alt="mask_KITTI" width="1200"/>
 
@@ -78,7 +78,7 @@ You can use vscode remote development (recommended) or sublime to change codes.
 
 <h3><u>Running Our Implementation</u></h3>
 
-Once the container can run the sample data from the instructions, you may add your own data (for example from the KITTI dataset) into the Datasets folder with the same hierarchy. To use our masked implementation, clone our repository and run the `build.sh` command. Then run `mono_kitti` (looking at `euroc_examples.sh` can show examples of how the original implementation is run) with an additional command line argument appended at the end containing the directory of the segmentation masks. If you are using WSL make sure you are running an x-server so you can see the GUI.
+Once the container can be run the sample data from the instructions, you may add your own data (for example from the KITTI dataset) into the Datasets folder with the same hierarchy. To use our masked implementation, clone our repository and run the `build.sh` command. Then run `mono_kitti` (looking at `euroc_examples.sh` can show examples of how the original implementation is run) with an additional command line argument appended at the end containing the directory of the segmentation masks. If you are using WSL make sure you are running an x-server so you can see the GUI.
 
 ---
 
