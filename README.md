@@ -4,7 +4,7 @@
 
 This is <strong>Team 6</strong>'s final project git repository for <a href="https://robots.engin.umich.edu/mobilerobotics/">EECS 568: Mobile Robotics course</a> at <a href="https://robotics.umich.edu/">University of Michigan</a>. The title of our project is <strong>Masked ORB-SLAM3: Dynamic Element Exclusion for Autonomous Driving Scenarios Using Masked R-CNN for Incresed Localization Accuracy.</strong>
 
-The masked ORB-SLAM3 dynamic object localization pipeline architecture involves using <a href="https://gitlab.eecs.umich.edu/v_slam/orb-slam_dynamic/-/tree/main/kitti_sequence_masks">Mask generated</a> from masked R-CNN for <a href="http://www.cvlibs.net/datasets/kitti/eval_mots.php">a chosen dynamic on-road driving </a> as opposed to the typical usage of semantic masks in ORB-SLAM for localization.
+The masked ORB-SLAM3 dynamic object localization pipeline architecture involvbedusing <a href="https://gitlab.eecs.umich.edu/v_slam/orb-slam_dynamic/-/tree/main/kitti_sequence_masks">Mask generated</a> from masked R-CNN for <a href="http://www.cvlibs.net/datasets/kitti/eval_mots.php">a chosen dynamic on-road driving </a> as opposed to the typical usage of semantic masks in ORB-SLAM for localization.
 
 <br>
 
