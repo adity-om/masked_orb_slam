@@ -17,7 +17,7 @@ First, we recommend you read through our paper uploaded on this repository/docs.
 
 ## Masked ORB-SLAM3 Architecture
 
-Thus, based off the obvious inaccuracy in semantic masks for the ORB-SLAM, we propose the following architecture for our <strong>"Masked ORB-SLAM3 pipeline</strong>":
+Thus, based off the obvious inaccuracy in semantic masks for the ORB-SLAM, we propose following architecture for our <strong>"Masked ORB-SLAM3 pipeline</strong>":
 
 <p align="center">
  ![ORB-SLAM3 Architecture](media/masked_orbslam_arch2.png)
