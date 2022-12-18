@@ -10,7 +10,7 @@ The masked ORB-SLAM3 dynamic object localization pipeline-architecture involved 
 
 ## Getting Started
 
-First, we recommend you read through our paper uploaded on this repository/docs. Next, read the 2 directly related works: [ORB-SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3?msclkid=d3a88f5eb81f11ec968f0535c7080186) and [DynaSLAM](https://github.com/BertaBescos/DynaSLAM?msclkid=fe9695b7b81f11ec9d82fc4c92af772c).
+First we recommend you read through our paper uploaded on this repository/docs. Next, read the 2 directly related works: [ORB-SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3?msclkid=d3a88f5eb81f11ec968f0535c7080186) and [DynaSLAM](https://github.com/BertaBescos/DynaSLAM?msclkid=fe9695b7b81f11ec9d82fc4c92af772c).
 
 
 <br> 
